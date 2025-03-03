@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 **Project Overview**  
+#### 🚀 **Project Overview**  
 This project is a **Python implementation of the classic Rock, Paper, Scissors game**, where a user plays against the computer. It showcases **Python fundamentals, control flow, randomization, and user input handling**—essential skills for **software development roles**.  
 
 This project demonstrates:  
