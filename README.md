@@ -15,7 +15,7 @@ This project demonstrates:
 
 ---
 
-## 🎯 **How the Game Works**  
+#### 🎯 **How the Game Works**  
 1️⃣ The player selects **Rock (r), Paper (p), or Scissors (s)**.  
 2️⃣ The computer randomly selects one of the three choices.  
 3️⃣ The program compares both choices and determines the winner:  
@@ -27,7 +27,7 @@ This project demonstrates:
 
 ---
 
-## 🏗 **Project Structure**  
+#### 🏗 **Project Structure**  
 📂 **main.py** – Contains the entire game logic, including:  
 - **User input handling**  
 - **Computer’s random selection**  
@@ -46,7 +46,7 @@ def play():
 
 ---
 
-## 🤖 **Game Logic & Winner Calculation**  
+#### 🤖 **Game Logic & Winner Calculation**  
 The game logic follows standard **Rock-Paper-Scissors rules**, implemented using **conditional statements**.  
 
 ✅ **Example: Determining the Winner**  
@@ -68,7 +68,7 @@ def determine_winner(user, computer):
 
 ---
 
-## 🎮 **Gameplay Example**  
+#### 🎮 **Gameplay Example**  
 ```python
 def play_game():
     user = input("Choose Rock (r), Paper (p), or Scissors (s): ").lower()
@@ -84,7 +84,7 @@ def play_game():
 
 ---
 
-## 📊 **Game Features & Enhancements**  
+#### 📊 **Game Features & Enhancements**  
 ✔ **User input validation** – Ensures correct selection  
 ✔ **Random computer selection** – Makes gameplay fair  
 ✔ **Replay option** – Allows the user to play multiple rounds  
@@ -104,7 +104,7 @@ def play_again():
 
 ---
 
-## 🔮 **Future Enhancements**  
+#### 🔮 **Future Enhancements**  
 🔹 **Score Tracking System** – Track wins, losses, and ties over multiple rounds  
 🔹 **Multiplayer Mode** – Let two users play against each other  
 🔹 **Graphical User Interface (GUI)** – Using `tkinter` or `Pygame`  
@@ -112,15 +112,7 @@ def play_again():
 
 ---
 
-## 🎯 **Why This Project Stands Out for Python Developer Roles**  
-✔ **Demonstrates Python programming fundamentals**  
-✔ **Applies real-world game logic & control structures**  
-✔ **Uses randomization & user interaction techniques**  
-✔ **Modular & maintainable code** – Easy to extend with new features  
-
----
-
-## 🛠 **How to Run This Project**  
+#### 🛠 **How to Run This Project**  
 1️⃣ Clone the repo:  
    ```bash
    git clone https://github.com/shrunalisalian/rock-paper-scissors.git
@@ -136,7 +128,7 @@ def play_again():
 
 ---
 
-## 📌 **Connect with Me**  
+#### 📌 **Connect with Me**  
 - **LinkedIn:** [Shrunali Salian](https://www.linkedin.com/in/shrunali-salian/)  
 - **Portfolio:** [Your Portfolio Link](#)  
 - **Email:** [Your Email](#)  
